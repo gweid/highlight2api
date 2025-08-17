@@ -5,7 +5,7 @@
 ## 🚀 一键部署
 
 ```bash
-docker run -d -p 3003:3003 --name highlight2api ghcr.io/jhhgiyv/highlight2api:latest
+docker-compose up -d
 ```
 
 ## 📝 获取 API Key
