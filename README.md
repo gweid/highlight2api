@@ -9,6 +9,10 @@
 ## 🚀 一键部署
 
 ```bash
+git clone https://github.com/gweid/highlight2api.git
+
+cd highlight2api
+
 docker-compose up -d
 ```
 
