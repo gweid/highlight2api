@@ -1,0 +1,7 @@
+version: '3.8'
+
+services:
+  highlight2api:
+    build: .
+    ports:
+      - "3003:3003"
