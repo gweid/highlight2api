@@ -1,3 +1,5 @@
+> 源代码来自：https://github.com/jhhgiyv/highlight2api，这里优化了 claude-sonnet-4-20250514 空响应的问题
+
 # Highlight2API
 
 将 Highlight AI 转换为 OpenAI 兼容的 API 接口，支持流式响应、工具调用和图片处理。
